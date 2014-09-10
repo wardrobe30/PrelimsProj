@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IICS Organizational Chart</string>
+    <string name="action_settings">Settings</string>
+    <string name="Director_name">Engr.Alex Santos</string>
+    <string name="Secretary_name">Jerralyn Padua</string>
+    <string name="Reverent_name">Fr.Hermel Pama</string>
+    <string name="Departments">Departments under IICS</string>
+    <string name="title_activity_my_activity2">MyActivity2</string>
+    <string name="title_activity_departments">Departments under IICS</string>
+    <string name="title_activity_it">IT</string>
+    <string name="title_activity_cs">CS</string>
+    <string name="title_activity_is">IS</string>
+    <string-array name="name1">
+        <item>Balais, Maricel </item>
+        <item>Baribar, Aaron Nathaniel </item>
+        <item>Caramancion, Kevin Matthe </item>
+        <item>Daen, Darwin </item>
+        <item>Eleazar, Mia (Chair) </item>
+        <item>Llamas, Jairus</item>
+        <item>Lopez, Rochellelyn </item>
+        <item>Padua, Jerralyn</item>
+        <item>Ramirez, Eugenia</item>
+        <item>Sanchez, Shanice Arielle</item>
+        <item>Santos, Anne Michelle</item>
+        <item>Taag, Karl Alex</item>
+        <item>Tan, Dexter</item>
+        <item>Victorio, Mike</item>
+        <item>Zalameda, Christian Raymond</item>
+    </string-array>
+    <string-array name="division1">
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+    </string-array>
+    <string-array name="name2">
+        <item>Acula, Donata </item>
+        <item>Agbayani, Jesus  </item>
+        <item>Aguilar, Ezra  </item>
+        <item>Ambrocio, Mayra Christina </item>
+        <item>Bahinting, Justine </item>
+        <item>Balmeo, Krisnamonte</item>
+        <item>Bartolome, Elison </item>
+        <item>Cabero, Jonathan </item>
+        <item>Cosme, Perla (Chair)</item>
+        <item>Delfinado, Cecil </item>
+        <item>Estabillo, Cherry Rose</item>
+        <item>Gonzales, Francis Gerard </item>
+        <item>Jugueta, Alma Eleanor</item>
+        <item>Lachica, Lorraine Lara</item>
+        <item>Ledesma, Peter Vincent</item>
+        <item>Luchico, Lyza Marie</item>
+        <item>Ponay, Charmaine </item>
+        <item>Sagum, Ria </item>
+        <item>Seño, Jose </item>
+        <item>Sideno, Janette </item>
+    </string-array>
+    <string-array name="division2">
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+    </string-array>
+    <string-array name="name3">
+        <item>Barcelo, Arne </item>
+        <item>Buluran, Joseph Rannie  </item>
+        <item>Cortez, William  </item>
+        <item>Decamora, Lawrence </item>
+        <item>Diaz, Salve </item>
+        <item>Domingo, Mylene (Chair)</item>
+        <item>Duran, Mildred  </item>
+        <item>Garcia, Jane Stephanie </item>
+        <item>Guevara, Steven Kristian</item>
+        <item>Ladao, Christopher </item>
+        <item>Mariano, Divinagracia</item>
+        <item>Mendoza, Renzi </item>
+        <item>Menor, Luke Oliver</item>
+        <item>Olan, Mercedita</item>
+        <item>Ortigas ,Anita</item>
+        <item>Osako, Nobumasa</item>
+        <item>Peralta, Editha </item>
+        <item>Reyes, Vergil </item>
+        <item>Santos, Alex </item>
+        <item>Sotto, Camille Anne</item>
+        <item>Valmadrid, Marikit </item>
+        <item>Yabut, Geminiano</item>
+    </string-array>
+    <string-array name="division3">
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+        <item>Departments</item>
+    </string-array>
+
+</resources>
